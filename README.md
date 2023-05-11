@@ -1,4 +1,4 @@
-# **MM Youtube Downloader**
+# **🇨🇿 CZECH M3U8 TV Channels**
 
 ## _By MONGOMANGO_
 
