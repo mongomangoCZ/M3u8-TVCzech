@@ -1,12 +1,10 @@
 # **🇨🇿 CZECH M3U8 TV Channels**
 
-## _By MONGOMANGO_
+## _By mongomangoCZ_
 
----
 
-- Platform : Windows
 
-- Coded in Python
 
---- ﻿
-﻿
+
+ ﻿
+
